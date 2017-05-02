@@ -1,11 +1,11 @@
-#include <iostream>
+#include "header.h"
 
 using namespace std;
 
 int main()
 {
 
-	cout << "시작";
+	cout << "시작" << endl;
 
 	return 0;
 }
